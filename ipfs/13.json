@@ -1,0 +1,23 @@
+{
+  "name": "Alpha Card - 3 Months #13",
+  "description": "Alpha card, you can use this card to get alpha VIP access. Duration: 3 months",
+  "image": "https://raw.githubusercontent.com/Xuthics/alpha-test/refs/heads/main/3m.png",
+  "attributes": [
+    {
+      "trait_type": "Duration",
+      "value": "3 months"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Alpha Cards"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "AC"
+    }
+  ]
+}
